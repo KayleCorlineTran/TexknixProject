@@ -1,0 +1,7 @@
+# Bỏ qua các file node_modules
+node_modules/
+
+# Bỏ qua các file cấu hình môi trường
+.env
+
+package-lock.json
